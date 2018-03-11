@@ -7,4 +7,9 @@ Dependencies remain minimal and the program is light by desing. Styling is done 
 
 ![notes](https://user-images.githubusercontent.com/29865797/37251398-588a2730-2507-11e8-8445-aae4bbd74eba.jpg)
 
+_____________________________
+
+This application is also present on my website at:
+
+https://www.techtimejourney.net/notes_app/
 
